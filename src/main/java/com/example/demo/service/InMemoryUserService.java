@@ -42,4 +42,9 @@ public class InMemoryUserService implements UserDetailsService {
                 .roles(appUser.role().name().replace("ROLE_", ""))
                 .build();
     }
+
+    public boolean registerUser(String username, String rawPassword) {
+        AppUser newUser = new AppUser(username, passwordEncoder.encode(rawPassword), Role.ROLE_USER);
+        return users.putIfAbsent(username, newUser) == null;
+    }
 }
