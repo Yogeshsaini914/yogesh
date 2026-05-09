@@ -1,0 +1,36 @@
+%PDF-1.1
+1 0 obj<< /Type /Catalog /Pages 2 0 R >>endobj
+2 0 obj<< /Type /Pages /Kids [3 0 R] /Count 1 >>endobj
+3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>endobj
+4 0 obj<< /Length 334 >>stream
+BT
+/F1 16 Tf
+50 740 Td
+(Yogesh - Resume) Tj
+0 -30 Td
+/F1 12 Tf
+(Experienced Java, Spring Boot, Microservices, Kafka Engineer) Tj
+0 -20 Td
+(Experience: 43 years) Tj
+0 -20 Td
+(Date of Birth: 04/03/1995) Tj
+0 -20 Td
+(Core Skills: Java, Spring Boot, Kafka, JUnit 5, Unit Testing) Tj
+0 -20 Td
+(Projects: DigiWallet, Viwado Car Washing, Brazil Real Estate, Australia Prediction App) Tj
+ET
+endstream
+endobj
+5 0 obj<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>endobj
+xref
+0 6
+0000000000 65535 f 
+0000000010 00000 n 
+0000000062 00000 n 
+0000000119 00000 n 
+0000000245 00000 n 
+0000000630 00000 n 
+trailer<< /Size 6 /Root 1 0 R >>
+startxref
+700
+%%EOF
